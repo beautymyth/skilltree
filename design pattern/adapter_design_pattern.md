@@ -16,7 +16,7 @@
 <br>
 3.因为<code>豆浆机</code>主要负责磨豆浆，不好改造为做豆腐，即使改造了，那么我<code>豆皮机</code>就没啥用了，所以买了一个<code>豆腐机</code>，将<code>豆浆机</code>磨好的豆浆加工为豆腐，再通过<code>臭豆腐机</code>做成臭豆腐
 ## UML图
-![image](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/images/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.png)
+![image](https://github.com/beautymyth/skilltree/raw/master/design%20pattern/images/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.png)
 ## 代码示例
 #### 现有业务：我吃豆皮
 ```php
