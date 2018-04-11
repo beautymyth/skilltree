@@ -23,7 +23,7 @@
 3.当我们把这些东西组装好后就可以绞肉了，此过程就是建造了一个绞肉机，之后想绞肉用这个组装好的就行了，不用每次都组装一遍
 
 ## UML图
-![iamge](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/images/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.png)
+![iamge](https://github.com/beautymyth/skilltree/raw/master/design%20pattern/images/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.png)
 
 ## 代码示例
 ```php
