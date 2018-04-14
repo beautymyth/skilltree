@@ -28,6 +28,7 @@
 * [建造者模式](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/builder_design_pattern.md)
 * [数据访问对象模式](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/dao_design_pattern.md)
 * [装饰器模式](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/decorator_design_pattern.md)
+* [委托模式](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/delegate_design_pattern.md)
 
 ## 参考资料
 Aaron Saray《Professional PHP Design Patterns》
