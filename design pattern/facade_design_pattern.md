@@ -16,7 +16,7 @@
 2.将它们进行组装，就可以用来自动扫地了，只要点一个开关按钮就行
 
 ## UML图
-
+![image](https://github.com/beautymyth/skilltree/blob/master/design%20pattern/images/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.png?raw=true)
 
 ## 代码示例
 ```php
